@@ -1,0 +1,8 @@
+/* Este codigo integra el tipo de letra Leelawadee que no esta incluida en el sitio google fonts ni por defecto */
+
+    @font-face {
+    font-family: 'Leelawadee';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Leelawadee'), url('./assets/woff/leelawad.woff') format('woff');
+    }  
